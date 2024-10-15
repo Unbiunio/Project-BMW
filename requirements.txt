@@ -1,0 +1,9 @@
+numpy == 1.25.0
+pandas 
+matplotlib
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+shap
