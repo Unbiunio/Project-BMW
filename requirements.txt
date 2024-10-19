@@ -7,3 +7,4 @@ scikit-learn
 catboost
 xgboost
 shap
+Jinja2
